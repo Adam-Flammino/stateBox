@@ -3,7 +3,7 @@
  * @param stateBox 
  */
     private void StateBox(ComboBox stateBox) {
-        stateBox.getItems().add("na");
+        stateBox.getItems().add("N/A");
         stateBox.getItems().add("AK");
         stateBox.getItems().add("AL");
         stateBox.getItems().add("AR");
