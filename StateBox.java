@@ -1,6 +1,6 @@
 /**
  * Populates ComboBox with US state abbreviations 
- * @param stateBox 
+ * @param cboStateBox 
  */
     private void StateBox(ComboBox cboStateBox) {
         cboStateBox.getItems().addAll("N/A", "AK", "AL", "AR", "AZ", "CA", "CO", "CT", 
